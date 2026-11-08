@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+mode.txt
+codex_autocad2019_snippet.toml
+*.backup.*
+work/*.dwg
+work/*.sha256
+work/*.log
+.DS_Store
