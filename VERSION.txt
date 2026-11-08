@@ -1,0 +1,4 @@
+Bundle revision: 1.0
+Prepared: 2026-11-08
+Target: Windows 11 + AutoCAD 2019 (COM 23.0) + WSL2 + Codex CLI
+Pinned dependency: autocad-mcp-pro[com]==1.8.0
